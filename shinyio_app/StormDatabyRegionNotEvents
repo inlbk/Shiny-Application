@@ -1,0 +1,491 @@
+"YEAR" "REGION" "FATALITIES" "INJURIES"
+"1" 1950 "Northeast" 0 6
+"63" 1950 "Northern Rockies and Plains" 0 135
+"154" 1950 "Ohio Valley" 12 79
+"216" 1950 "South" 55 393
+"278" 1950 "Southeast" 0 24
+"340" 1950 "Southwest" 0 1
+"394" 1950 "Upper Midwest" 3 21
+"2" 1951 "Northeast" 0 20
+"64" 1951 "Northern Rockies and Plains" 0 13
+"155" 1951 "Ohio Valley" 3 83
+"217" 1951 "South" 14 287
+"279" 1951 "Southeast" 3 25
+"341" 1951 "Southwest" 0 2
+"395" 1951 "Upper Midwest" 14 94
+"3" 1952 "Northeast" 0 15
+"65" 1952 "Northern Rockies and Plains" 2 50
+"156" 1952 "Ohio Valley" 93 802
+"218" 1952 "South" 125 828
+"280" 1952 "Southeast" 8 174
+"342" 1952 "Southwest" 0 6
+"396" 1952 "Upper Midwest" 2 40
+"4" 1953 "Northeast" 90 1254
+"66" 1953 "Northern Rockies and Plains" 18 125
+"157" 1953 "Ohio Valley" 24 439
+"219" 1953 "South" 207 1351
+"281" 1953 "Southeast" 38 905
+"397" 1953 "Upper Midwest" 142 1057
+"5" 1954 "Northeast" 1 22
+"67" 1954 "Northern Rockies and Plains" 7 36
+"158" 1954 "Ohio Valley" 6 36
+"220" 1954 "South" 9 346
+"282" 1954 "Southeast" 12 264
+"398" 1954 "Upper Midwest" 1 11
+"6" 1955 "Northeast" 1 1
+"68" 1955 "Northern Rockies and Plains" 5 66
+"159" 1955 "Ohio Valley" 1 105
+"221" 1955 "South" 108 671
+"283" 1955 "Southeast" 12 49
+"343" 1955 "Southwest" 0 1
+"399" 1955 "Upper Midwest" 2 33
+"7" 1956 "Northeast" 0 31
+"69" 1956 "Northern Rockies and Plains" 0 20
+"160" 1956 "Ohio Valley" 15 197
+"222" 1956 "South" 10 280
+"284" 1956 "Southeast" 25 230
+"400" 1956 "Upper Midwest" 33 595
+"456" 1956 "West" 0 2
+"8" 1957 "Northeast" 0 6
+"70" 1957 "Northern Rockies and Plains" 12 113
+"161" 1957 "Ohio Valley" 71 665
+"223" 1957 "South" 90 812
+"285" 1957 "Southeast" 17 349
+"344" 1957 "Southwest" 1 1
+"401" 1957 "Upper Midwest" 2 30
+"9" 1958 "Northeast" 1 5
+"71" 1958 "Northern Rockies and Plains" 0 11
+"162" 1958 "Ohio Valley" 4 65
+"224" 1958 "South" 29 197
+"286" 1958 "Southeast" 3 94
+"345" 1958 "Southwest" 0 5
+"402" 1958 "Upper Midwest" 30 158
+"10" 1959 "Northeast" 0 5
+"72" 1959 "Northern Rockies and Plains" 2 10
+"163" 1959 "Ohio Valley" 25 404
+"225" 1959 "South" 18 156
+"287" 1959 "Southeast" 13 136
+"346" 1959 "Southwest" 0 1
+"403" 1959 "Upper Midwest" 0 22
+"11" 1960 "Northeast" 0 15
+"73" 1960 "Northern Rockies and Plains" 2 16
+"164" 1960 "Ohio Valley" 0 49
+"226" 1960 "South" 40 585
+"288" 1960 "Southeast" 1 30
+"347" 1960 "Southwest" 2 37
+"404" 1960 "Upper Midwest" 1 5
+"12" 1961 "Northeast" 0 12
+"74" 1961 "Northern Rockies and Plains" 1 8
+"165" 1961 "Ohio Valley" 7 300
+"227" 1961 "South" 41 654
+"289" 1961 "Southeast" 2 72
+"348" 1961 "Southwest" 0 8
+"405" 1961 "Upper Midwest" 1 30
+"457" 1961 "West" 0 3
+"13" 1962 "Northeast" 1 55
+"75" 1962 "Northern Rockies and Plains" 0 74
+"166" 1962 "Ohio Valley" 4 87
+"228" 1962 "South" 4 139
+"290" 1962 "Southeast" 20 153
+"349" 1962 "Southwest" 0 1
+"406" 1962 "Upper Midwest" 1 42
+"14" 1963 "Northeast" 2 90
+"76" 1963 "Northern Rockies and Plains" 1 8
+"167" 1963 "Ohio Valley" 9 212
+"229" 1963 "South" 11 70
+"291" 1963 "Southeast" 7 114
+"407" 1963 "Upper Midwest" 1 43
+"15" 1964 "Northeast" 0 20
+"77" 1964 "Northern Rockies and Plains" 4 93
+"168" 1964 "Ohio Valley" 5 113
+"230" 1964 "South" 35 358
+"292" 1964 "Southeast" 14 143
+"350" 1964 "Southwest" 3 18
+"408" 1964 "Upper Midwest" 12 402
+"458" 1964 "West" 0 1
+"16" 1965 "Northeast" 0 14
+"78" 1965 "Northern Rockies and Plains" 6 65
+"169" 1965 "Ohio Valley" 209 2876
+"231" 1965 "South" 12 416
+"293" 1965 "Southeast" 3 196
+"351" 1965 "Southwest" 0 8
+"409" 1965 "Upper Midwest" 71 1622
+"17" 1966 "Northeast" 0 7
+"79" 1966 "Northern Rockies and Plains" 4 22
+"170" 1966 "Ohio Valley" 1 113
+"232" 1966 "South" 75 1081
+"294" 1966 "Southeast" 12 589
+"352" 1966 "Southwest" 0 9
+"410" 1966 "Upper Midwest" 6 199
+"459" 1966 "West" 0 10
+"18" 1967 "Northeast" 1 23
+"80" 1967 "Northern Rockies and Plains" 0 22
+"171" 1967 "Ohio Valley" 69 1443
+"233" 1967 "South" 18 182
+"295" 1967 "Southeast" 7 263
+"353" 1967 "Southwest" 0 8
+"411" 1967 "Upper Midwest" 19 203
+"19" 1968 "Northeast" 0 13
+"81" 1968 "Northern Rockies and Plains" 0 8
+"172" 1968 "Ohio Valley" 29 736
+"234" 1968 "South" 66 817
+"296" 1968 "Southeast" 5 115
+"354" 1968 "Southwest" 0 14
+"412" 1968 "Upper Midwest" 31 819
+"20" 1969 "Northeast" 0 3
+"82" 1969 "Northern Rockies and Plains" 1 20
+"125" 1969 "Northwest" 0 1
+"173" 1969 "Ohio Valley" 11 435
+"235" 1969 "South" 36 426
+"297" 1969 "Southeast" 3 75
+"355" 1969 "Southwest" 0 6
+"413" 1969 "Upper Midwest" 15 345
+"21" 1970 "Northeast" 3 22
+"83" 1970 "Northern Rockies and Plains" 1 11
+"174" 1970 "Ohio Valley" 3 195
+"236" 1970 "South" 63 1060
+"298" 1970 "Southeast" 3 49
+"356" 1970 "Southwest" 0 1
+"414" 1970 "Upper Midwest" 0 17
+"22" 1971 "Northeast" 0 10
+"84" 1971 "Northern Rockies and Plains" 0 9
+"175" 1971 "Ohio Valley" 17 577
+"237" 1971 "South" 132 1760
+"299" 1971 "Southeast" 8 254
+"357" 1971 "Southwest" 0 52
+"415" 1971 "Upper Midwest" 2 57
+"23" 1972 "Northeast" 2 25
+"85" 1972 "Northern Rockies and Plains" 0 2
+"126" 1972 "Northwest" 6 301
+"176" 1972 "Ohio Valley" 6 149
+"238" 1972 "South" 7 193
+"300" 1972 "Southeast" 6 269
+"358" 1972 "Southwest" 0 22
+"416" 1972 "Upper Midwest" 0 15
+"24" 1973 "Northeast" 4 60
+"86" 1973 "Northern Rockies and Plains" 2 34
+"177" 1973 "Ohio Valley" 15 266
+"239" 1973 "South" 40 1118
+"301" 1973 "Southeast" 25 867
+"359" 1973 "Southwest" 0 5
+"417" 1973 "Upper Midwest" 3 55
+"460" 1973 "West" 0 1
+"25" 1974 "Northeast" 0 5
+"87" 1974 "Northern Rockies and Plains" 0 34
+"178" 1974 "Ohio Valley" 211 4421
+"240" 1974 "South" 31 816
+"302" 1974 "Southeast" 114 1279
+"360" 1974 "Southwest" 2 48
+"418" 1974 "Upper Midwest" 8 220
+"461" 1974 "West" 0 1
+"26" 1975 "Northeast" 0 10
+"88" 1975 "Northern Rockies and Plains" 5 152
+"179" 1975 "Ohio Valley" 10 201
+"241" 1975 "South" 33 524
+"303" 1975 "Southeast" 9 539
+"419" 1975 "Upper Midwest" 3 31
+"27" 1976 "Northeast" 2 34
+"89" 1976 "Northern Rockies and Plains" 0 28
+"180" 1976 "Ohio Valley" 11 243
+"242" 1976 "South" 22 634
+"304" 1976 "Southeast" 5 124
+"361" 1976 "Southwest" 0 3
+"420" 1976 "Upper Midwest" 4 129
+"28" 1977 "Northeast" 0 16
+"90" 1977 "Northern Rockies and Plains" 0 3
+"181" 1977 "Ohio Valley" 10 221
+"243" 1977 "South" 6 135
+"305" 1977 "Southeast" 25 212
+"362" 1977 "Southwest" 0 6
+"421" 1977 "Upper Midwest" 2 174
+"462" 1977 "West" 0 4
+"29" 1978 "Northeast" 1 31
+"91" 1978 "Northern Rockies and Plains" 5 61
+"127" 1978 "Northwest" 0 2
+"182" 1978 "Ohio Valley" 1 79
+"244" 1978 "South" 31 392
+"306" 1978 "Southeast" 5 235
+"363" 1978 "Southwest" 0 3
+"422" 1978 "Upper Midwest" 10 109
+"463" 1978 "West" 0 7
+"30" 1979 "Northeast" 6 517
+"92" 1979 "Northern Rockies and Plains" 2 41
+"183" 1979 "Ohio Valley" 4 84
+"245" 1979 "South" 62 2072
+"307" 1979 "Southeast" 2 161
+"364" 1979 "Southwest" 0 4
+"423" 1979 "Upper Midwest" 8 135
+"31" 1980 "Northeast" 0 156
+"93" 1980 "Northern Rockies and Plains" 5 204
+"184" 1980 "Ohio Valley" 7 221
+"246" 1980 "South" 6 255
+"308" 1980 "Southeast" 1 143
+"424" 1980 "Upper Midwest" 9 174
+"464" 1980 "West" 0 4
+"32" 1981 "Northeast" 0 11
+"94" 1981 "Northern Rockies and Plains" 0 2
+"185" 1981 "Ohio Valley" 8 182
+"247" 1981 "South" 8 252
+"309" 1981 "Southeast" 4 139
+"365" 1981 "Southwest" 0 44
+"425" 1981 "Upper Midwest" 4 168
+"33" 1982 "Northeast" 0 5
+"95" 1982 "Northern Rockies and Plains" 0 11
+"186" 1982 "Ohio Valley" 18 330
+"248" 1982 "South" 42 825
+"310" 1982 "Southeast" 3 88
+"426" 1982 "Upper Midwest" 1 14
+"465" 1982 "West" 0 3
+"34" 1983 "Northeast" 5 33
+"96" 1983 "Northern Rockies and Plains" 1 7
+"187" 1983 "Ohio Valley" 5 135
+"249" 1983 "South" 16 332
+"311" 1983 "Southeast" 9 222
+"427" 1983 "Upper Midwest" 1 53
+"466" 1983 "West" 0 34
+"35" 1984 "Northeast" 1 80
+"97" 1984 "Northern Rockies and Plains" 2 38
+"188" 1984 "Ohio Valley" 9 165
+"250" 1984 "South" 45 641
+"312" 1984 "Southeast" 81 1451
+"366" 1984 "Southwest" 0 30
+"428" 1984 "Upper Midwest" 22 453
+"36" 1985 "Northeast" 67 560
+"98" 1985 "Northern Rockies and Plains" 2 13
+"189" 1985 "Ohio Valley" 14 406
+"251" 1985 "South" 12 192
+"313" 1985 "Southeast" 7 184
+"367" 1985 "Southwest" 0 30
+"429" 1985 "Upper Midwest" 7 124
+"467" 1985 "West" 3 4
+"37" 1986 "Northeast" 6 88
+"99" 1986 "Northern Rockies and Plains" 2 74
+"128" 1986 "Northwest" 3 0
+"190" 1986 "Ohio Valley" 8 252
+"252" 1986 "South" 18 249
+"314" 1986 "Southeast" 13 161
+"368" 1986 "Southwest" 0 16
+"430" 1986 "Upper Midwest" 1 74
+"468" 1986 "West" 0 1
+"38" 1987 "Northeast" 4 29
+"100" 1987 "Northern Rockies and Plains" 0 26
+"129" 1987 "Northwest" 0 9
+"191" 1987 "Ohio Valley" 3 145
+"253" 1987 "South" 69 1088
+"315" 1987 "Southeast" 3 66
+"369" 1987 "Southwest" 1 13
+"431" 1987 "Upper Midwest" 9 40
+"39" 1988 "Northeast" 3 84
+"101" 1988 "Northern Rockies and Plains" 2 19
+"130" 1988 "Northwest" 2 38
+"192" 1988 "Ohio Valley" 11 160
+"254" 1988 "South" 15 261
+"316" 1988 "Southeast" 11 303
+"370" 1988 "Southwest" 4 39
+"432" 1988 "Upper Midwest" 7 126
+"40" 1989 "Northeast" 19 244
+"102" 1989 "Northern Rockies and Plains" 0 33
+"131" 1989 "Northwest" 1 9
+"193" 1989 "Ohio Valley" 4 184
+"255" 1989 "South" 9 269
+"317" 1989 "Southeast" 44 885
+"371" 1989 "Southwest" 0 7
+"433" 1989 "Upper Midwest" 2 44
+"41" 1990 "Northeast" 5 181
+"103" 1990 "Northern Rockies and Plains" 1 17
+"132" 1990 "Northwest" 0 3
+"194" 1990 "Ohio Valley" 51 738
+"256" 1990 "South" 15 419
+"318" 1990 "Southeast" 14 314
+"372" 1990 "Southwest" 7 104
+"434" 1990 "Upper Midwest" 1 40
+"469" 1990 "West" 1 9
+"42" 1991 "Northeast" 7 75
+"104" 1991 "Northern Rockies and Plains" 0 40
+"133" 1991 "Northwest" 0 5
+"195" 1991 "Ohio Valley" 19 399
+"257" 1991 "South" 25 488
+"319" 1991 "Southeast" 9 218
+"373" 1991 "Southwest" 0 31
+"435" 1991 "Upper Midwest" 13 96
+"470" 1991 "West" 0 3
+"43" 1992 "Northeast" 1 70
+"105" 1992 "Northern Rockies and Plains" 0 23
+"134" 1992 "Northwest" 2 3
+"196" 1992 "Ohio Valley" 3 290
+"258" 1992 "South" 25 679
+"320" 1992 "Southeast" 18 460
+"374" 1992 "Southwest" 1 57
+"436" 1992 "Upper Midwest" 4 166
+"471" 1992 "West" 0 6
+"44" 1993 "Northeast" 28 51
+"106" 1993 "Northern Rockies and Plains" 13 68
+"135" 1993 "Northwest" 15 157
+"197" 1993 "Ohio Valley" 29 145
+"259" 1993 "South" 40 312
+"321" 1993 "Southeast" 118 1009
+"375" 1993 "Southwest" 10 68
+"437" 1993 "Upper Midwest" 6 44
+"472" 1993 "West" 33 290
+"45" 1994 "Northeast" 74 718
+"107" 1994 "Northern Rockies and Plains" 7 87
+"136" 1994 "Northwest" 7 56
+"198" 1994 "Ohio Valley" 55 2008
+"260" 1994 "South" 60 311
+"322" 1994 "Southeast" 110 681
+"376" 1994 "Southwest" 10 111
+"438" 1994 "Upper Midwest" 9 109
+"473" 1994 "West" 10 77
+"46" 1995 "Northeast" 281 331
+"108" 1995 "Northern Rockies and Plains" 8 61
+"137" 1995 "Northwest" 10 35
+"199" 1995 "Ohio Valley" 770 1626
+"261" 1995 "South" 93 813
+"323" 1995 "Southeast" 155 1230
+"377" 1995 "Southwest" 25 163
+"439" 1995 "Upper Midwest" 109 133
+"474" 1995 "West" 21 76
+"47" 1996 "Northeast" 93 444
+"109" 1996 "Northern Rockies and Plains" 33 146
+"138" 1996 "Northwest" 30 81
+"200" 1996 "Ohio Valley" 76 388
+"262" 1996 "South" 80 401
+"324" 1996 "Southeast" 120 695
+"378" 1996 "Southwest" 24 247
+"440" 1996 "Upper Midwest" 33 211
+"475" 1996 "West" 26 64
+"48" 1997 "Northeast" 89 534
+"110" 1997 "Northern Rockies and Plains" 31 233
+"139" 1997 "Northwest" 31 56
+"201" 1997 "Ohio Valley" 104 364
+"263" 1997 "South" 122 1029
+"325" 1997 "Southeast" 43 614
+"379" 1997 "Southwest" 83 521
+"441" 1997 "Upper Midwest" 24 233
+"476" 1997 "West" 46 196
+"49" 1998 "Northeast" 57 652
+"111" 1998 "Northern Rockies and Plains" 17 256
+"140" 1998 "Northwest" 16 37
+"202" 1998 "Ohio Valley" 99 1000
+"264" 1998 "South" 203 6727
+"326" 1998 "Southeast" 174 1322
+"380" 1998 "Southwest" 32 231
+"442" 1998 "Upper Midwest" 31 667
+"477" 1998 "West" 45 272
+"50" 1999 "Northeast" 209 1164
+"112" 1999 "Northern Rockies and Plains" 24 134
+"141" 1999 "Northwest" 17 75
+"203" 1999 "Ohio Valley" 282 1022
+"265" 1999 "South" 143 1394
+"327" 1999 "Southeast" 112 566
+"381" 1999 "Southwest" 26 261
+"443" 1999 "Upper Midwest" 32 225
+"478" 1999 "West" 33 277
+"51" 2000 "Northeast" 46 250
+"113" 2000 "Northern Rockies and Plains" 11 150
+"142" 2000 "Northwest" 9 41
+"204" 2000 "Ohio Valley" 60 657
+"266" 2000 "South" 162 363
+"328" 2000 "Southeast" 90 710
+"382" 2000 "Southwest" 25 112
+"444" 2000 "Upper Midwest" 14 151
+"479" 2000 "West" 42 328
+"52" 2001 "Northeast" 56 270
+"114" 2001 "Northern Rockies and Plains" 7 92
+"143" 2001 "Northwest" 12 35
+"205" 2001 "Ohio Valley" 109 447
+"267" 2001 "South" 102 691
+"329" 2001 "Southeast" 66 441
+"383" 2001 "Southwest" 27 127
+"445" 2001 "Upper Midwest" 41 338
+"480" 2001 "West" 18 242
+"53" 2002 "Northeast" 135 458
+"115" 2002 "Northern Rockies and Plains" 9 67
+"144" 2002 "Northwest" 15 51
+"206" 2002 "Ohio Valley" 124 948
+"268" 2002 "South" 48 308
+"330" 2002 "Southeast" 75 341
+"384" 2002 "Southwest" 19 160
+"446" 2002 "Upper Midwest" 24 99
+"481" 2002 "West" 32 380
+"54" 2003 "Northeast" 60 363
+"116" 2003 "Northern Rockies and Plains" 14 60
+"145" 2003 "Northwest" 8 44
+"207" 2003 "Ohio Valley" 92 667
+"269" 2003 "South" 40 491
+"331" 2003 "Southeast" 106 606
+"385" 2003 "Southwest" 29 92
+"447" 2003 "Upper Midwest" 12 138
+"482" 2003 "West" 59 447
+"55" 2004 "Northeast" 39 310
+"117" 2004 "Northern Rockies and Plains" 6 94
+"146" 2004 "Northwest" 8 19
+"208" 2004 "Ohio Valley" 66 334
+"270" 2004 "South" 46 234
+"332" 2004 "Southeast" 122 1099
+"386" 2004 "Southwest" 14 85
+"448" 2004 "Upper Midwest" 8 76
+"483" 2004 "West" 18 110
+"56" 2005 "Northeast" 65 182
+"118" 2005 "Northern Rockies and Plains" 8 54
+"147" 2005 "Northwest" 8 27
+"209" 2005 "Ohio Valley" 79 720
+"271" 2005 "South" 110 345
+"333" 2005 "Southeast" 67 218
+"387" 2005 "Southwest" 81 89
+"449" 2005 "Upper Midwest" 13 95
+"484" 2005 "West" 27 87
+"57" 2006 "Northeast" 132 260
+"119" 2006 "Northern Rockies and Plains" 11 45
+"148" 2006 "Northwest" 19 24
+"210" 2006 "Ohio Valley" 145 1649
+"272" 2006 "South" 83 457
+"334" 2006 "Southeast" 51 246
+"388" 2006 "Southwest" 37 58
+"450" 2006 "Upper Midwest" 14 475
+"485" 2006 "West" 87 136
+"58" 2007 "Northeast" 31 73
+"120" 2007 "Northern Rockies and Plains" 3 55
+"149" 2007 "Northwest" 19 26
+"211" 2007 "Ohio Valley" 49 699
+"273" 2007 "South" 108 549
+"335" 2007 "Southeast" 104 393
+"389" 2007 "Southwest" 33 80
+"451" 2007 "Upper Midwest" 22 103
+"486" 2007 "West" 41 186
+"59" 2008 "Northeast" 31 185
+"121" 2008 "Northern Rockies and Plains" 12 50
+"150" 2008 "Northwest" 13 11
+"212" 2008 "Ohio Valley" 145 713
+"274" 2008 "South" 98 648
+"336" 2008 "Southeast" 73 614
+"390" 2008 "Southwest" 33 184
+"452" 2008 "Upper Midwest" 31 221
+"487" 2008 "West" 35 68
+"60" 2009 "Northeast" 22 218
+"122" 2009 "Northern Rockies and Plains" 9 22
+"151" 2009 "Northwest" 10 17
+"213" 2009 "Ohio Valley" 63 201
+"275" 2009 "South" 60 335
+"337" 2009 "Southeast" 71 235
+"391" 2009 "Southwest" 10 58
+"453" 2009 "Upper Midwest" 17 43
+"488" 2009 "West" 27 81
+"61" 2010 "Northeast" 49 165
+"123" 2010 "Northern Rockies and Plains" 12 60
+"152" 2010 "Northwest" 12 82
+"214" 2010 "Ohio Valley" 124 230
+"276" 2010 "South" 88 664
+"338" 2010 "Southeast" 55 245
+"392" 2010 "Southwest" 20 69
+"454" 2010 "Upper Midwest" 18 280
+"489" 2010 "West" 34 42
+"62" 2011 "Northeast" 98 508
+"124" 2011 "Northern Rockies and Plains" 16 29
+"153" 2011 "Northwest" 6 6
+"215" 2011 "Ohio Valley" 304 2338
+"277" 2011 "South" 154 1491
+"339" 2011 "Southeast" 345 3120
+"393" 2011 "Southwest" 20 70
+"455" 2011 "Upper Midwest" 19 143
+"490" 2011 "West" 17 58
