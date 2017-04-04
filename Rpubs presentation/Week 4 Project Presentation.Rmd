@@ -48,7 +48,7 @@ The [NOAA severe weather event database](https://d396qusza40orc.cloudfront.net/r
 ## User Inputs to the App
 
 <div class="columns-2">
-  ![](/Users/inaloobeek/Documents/Coursera/Data Scientist Specialization - JHU/9 Developing Data Products - project remaining/Week 4 - project remaining/My project/Final Project (No Events)/User_interface_5.png)
+  ![](User_interface_5.png)
 
 The user can select:
 
