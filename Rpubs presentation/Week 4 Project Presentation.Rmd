@@ -100,5 +100,5 @@ if(show_fatalities & show_injuries){
 
 
 ```{r, echo=FALSE, eval=FALSE, message=FALSE}
-# Published at https://inlbk.github.io/Week_3_Project.html
+# # Published at https://rpubs.com/inlbk/265307
 ```
